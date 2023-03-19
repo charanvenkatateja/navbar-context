@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.not-found-cont {
+  background-color: transparent;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.not-found-cont-2 {
+  background-color: black;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.not-img {
+  height: 300px;
+  width: 300px;
+}
+.not-heading {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-self: center;
+}
+.not-heading-2 {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  align-self: center;
+}
+.not-para {
+  color: black;
+  font-size: 9px;
+  font-weight: 400;
+  align-self: center;
+}
+.not-para-2 {
+  color: #ffffff;
+  font-size: 9px;
+  font-weight: 400;
+  align-self: center;
+}

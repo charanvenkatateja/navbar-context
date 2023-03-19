@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  height: 80vh;
+}
+.about-container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: Black;
+  height: 80vh;
+}
+.about-heading {
+  margin-top: 20px;
+  align-self: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.about-image {
+  height: 200px;
+  width: 200px;
+}
+.about-heading-2 {
+  margin-top: 20px;
+  align-self: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: #ffffff;
+}
